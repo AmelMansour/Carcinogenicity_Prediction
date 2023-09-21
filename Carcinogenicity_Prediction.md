@@ -1,7 +1,6 @@
 # Carcinogenicity_Prediction
 Ce projet, créé lors d'un hackathon, se concentre sur la prédiction de la carcinogénicité des composés organiques en se basant sur leur structure chimique. Il vise à contribuer à l'identification rapide des effets toxiques potentiels des nouvelles molécules. Les données proviennent du fichier CSV "Carcinogenicity_Carcinogenicity.csv" de la base de données toxric, comprenant les valeurs de toxicité cancérigène (1 ou 0) pour 1021 molécules. Les descripteurs chimiques ont été calculés à partir des formats SMILES à l'aide du module RDKit de Python.
 
-
 ![Hackathon](https://github.com/AmelMansour/Carcinogenicity_Prediction/assets/141269604/12820dc5-7e74-4a4d-8389-1a562493eed4)
 ![cap1](https://github.com/AmelMansour/Carcinogenicity_Prediction/assets/141269604/29bd6178-3cea-4da4-b039-a1a99fb597f5)
 ![cap2](https://github.com/AmelMansour/Carcinogenicity_Prediction/assets/141269604/e717b864-3f1d-4358-b88d-7ce01f1a6491)
